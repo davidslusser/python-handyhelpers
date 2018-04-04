@@ -1,2 +1,2 @@
 # python-handyhelpers
-handy helpers to support your python projects
+A collection of handy utilities to support python operations
