@@ -99,3 +99,17 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# dev enviornment stuff
+.idea/
+*.idea
+python-handyhelpers.iml
+local_test
+local_test/*
+*.pkl
+*.iml
+
+# Apple garbage
+*.DS_Store
+
